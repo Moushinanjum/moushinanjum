@@ -15,7 +15,7 @@ I aim to grow as a **QA Engineer** by applying rigorous testing practices, impro
 For my interview i am solving in :  
 
   <a href="https://leetcode.com/u/moushinanjum//">
-    <img alt="LeetCode" src="https://custom-icon-badges.demolab.com/badge/LeetCode-03-%23005588?style=for-the-badge&labelColor=003366&logo=leetcode&logoColor=white"/>
+    <img alt="LeetCode" src="https://custom-icon-badges.demolab.com/badge/LeetCode-00-%23005588?style=for-the-badge&labelColor=003366&logo=leetcode&logoColor=white"/>
   </a>
 </p>
 
@@ -45,12 +45,13 @@ For my interview i am solving in :
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger UI"/>
   <img src="https://img.shields.io/badge/SQL_Testing-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Testing"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
   <img src="https://img.shields.io/badge/TestRail-009688?style=for-the-badge&logoColor=white" alt="TestRail"/>
-  <img src="https://img.shields.io/badge/Agile_Methodology-2496ED?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Agile"/>
   <img src="https://img.shields.io/badge/Bug_Tracking-red?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bug Tracking"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
   <img src="https://img.shields.io/badge/Quality_Assurance-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Quality Assurance"/>
+  <img src="https://img.shields.io/badge/System_Design-FFD700?style=for-the-badge&logo=drawio&logoColor=black" alt="System Design"/>
+  <img src="https://img.shields.io/badge/ACID_Principles-2E8B57?style=for-the-badge&logo=databricks&logoColor=white" alt="ACID Principles"/>
+  <img src="https://img.shields.io/badge/SOLID_Principles-8A2BE2?style=for-the-badge&logo=dependabot&logoColor=white" alt="SOLID Principles"/>
 </p>
 
 ## 🤝 Let's Connect!
