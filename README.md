@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Moushinanjum&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
-# Hi, Mst Moushin Anjum here 👋
+# Hi, Mst. Moushin Anjum here 👋
 ### Aspiring SQA Engineer and developer
 
 I’m Moushin Anjum, a final-year Computer Science & Engineering undergraduate with a growing focus on Software Quality Assurance and ensuring robust, high-performing software delivery. While I have a good foundation in development, my passion lies in designing and building, testing, and refining applications to meet the highest quality standards.
