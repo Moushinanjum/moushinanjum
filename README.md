@@ -3,15 +3,15 @@
 </p>
 
 # Hi, Mst. Moushin Anjum here 👋
-### Aspiring SQA Engineer and developer
+### Aspiring software engineer and Java developer
 
-I’m Moushin Anjum, a final-year Computer Science & Engineering undergraduate with a growing focus on Software Quality Assurance and ensuring robust, high-performing software delivery. While I have a good foundation in development, my passion lies in designing and building, testing, and refining applications to meet the highest quality standards.
+I’m Moushin Anjum, a final-year Computer Science & Engineering undergraduate with a growing focus on java and ensuring robust, high-performing software delivery. While I have a good foundation in development.
 
-I bring skills in manual and automated testing, basic understanding of test planning, bug tracking, and QA processes, and hands-on experience with tools like Postman and Swagger UI for API testing. My background in backend technologies like Spring Boot, Spring Security, and .NET Frameworks, along with MySQL database expertise, allows me to test systems effectively from both functional and technical perspectives.
+My background in backend technologies like Spring Boot, Spring Security, and .NET Frameworks, along with MySQL database expertise, allows me to test systems effectively from both functional and technical perspectives.
 
 I’m also familiar with **Machine Learning and Deep Learning concepts**, giving me a unique edge in **testing** AI-driven applications. My development experience in **Tailwind CSS**, and core languages **(Java, C#, PHP, JavaScript, C, C++)** strengthens my ability to collaborate with development teams and understand code-level issues.
 
-I aim to grow as a **QA Engineer** by applying rigorous testing practices, improving automation skills, and contributing to delivering software that is not only functional but also reliable, secure, and user-friendly.
+I aim to grow as a **Software  Engineer** by applying practices, improving skills, and contributing to delivering software that is not only functional but also reliable, secure, and user-friendly.
 For my interview i am solving in :  
 
   <a href="https://leetcode.com/u/moushinanjum//">
