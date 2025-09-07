@@ -3,15 +3,12 @@
 </p>
 
 # Hi, Mst. Moushin Anjum here 👋
-### Aspiring software engineer and Java developer
+### Aspiring Software Engineer & Java Developer
+Hello, I’m Moushin Anjum, a final-year Computer Science & Engineering student with a strong focus on Java and delivering robust, high-performing software. I have a solid foundation in backend development, working with technologies like Spring Boot, Spring Security, and .NET Frameworks, alongside MySQL database expertise, which enables me to test and optimize systems effectively from both functional and technical perspectives.
 
-I’m Moushin Anjum, a final-year Computer Science & Engineering undergraduate with a growing focus on java and ensuring robust, high-performing software delivery.I have a good foundation in development.
+In addition, I have experience with Machine Learning and Deep Learning, giving me an edge in understanding and testing AI-driven applications. My hands-on experience with Tailwind CSS and core programming languages including Java, C#, PHP, JavaScript, C, and C++ allows me to collaborate seamlessly with development teams and understand code-level issues deeply.
 
-My background in backend technologies like Spring Boot, Spring Security, and .NET Frameworks, along with MySQL database expertise, allows me to test systems effectively from both functional and technical perspectives.
-
-I’m also familiar with **Machine Learning and Deep Learning concepts**, giving me a unique edge in **testing** AI-driven applications. My development experience in **Tailwind CSS**, and core languages **(Java, C#, PHP, JavaScript, C, C++)** strengthens my ability to collaborate with development teams and understand code-level issues.
-
-I aim to grow as a **Software  Engineer** by applying practices, improving skills, and contributing to delivering software that is not only functional but also reliable, secure, and user-friendly.
+I’m passionate about growing as a Software Engineer by applying best practices, honing my skills, and contributing to software that is reliable, secure, and user-friendly.
 For my interview i am solving in :  
 
   <a href="https://leetcode.com/u/moushinanjum//">
