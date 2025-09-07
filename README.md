@@ -39,13 +39,10 @@ For my interview i am solving in :
   <img src="https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Manual_Testing-blue?style=for-the-alt="API Testing"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger UI"/>
   <img src="https://img.shields.io/badge/SQL_Testing-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Testing"/>
-  <img src="https://img.shields.io/badge/TestRail-009688?style=for-the-badge&logoColor=white" alt="TestRail"/>
   <img src="https://img.shields.io/badge/Bug_Tracking-red?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bug Tracking"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"  alt="System Design"/>
   <img src="https://img.shields.io/badge/ACID_Principles-2E8B57?style=for-the-badge&logo=databricks&logoColor=white" alt="ACID Principles"/>
   <img src="https://img.shields.io/badge/SOLID_Principles-8A2BE2?style=for-the-badge&logo=dependabot&logoColor=white" alt="SOLID Principles"/>
 </p>
