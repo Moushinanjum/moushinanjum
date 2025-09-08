@@ -12,8 +12,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Moushinanjum&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
-
-# Hi, Mst. Moushin Anjum here 👋
 ### Aspiring Software Engineer & Java Developer
 Hello, I’m Moushin Anjum, a final-year Computer Science & Engineering student with a strong focus on Java and delivering robust, high-performing software. I have a solid foundation in backend development, working with technologies like Spring Boot, Spring Security, alongside MySQL database expertise, which enables me to test and optimize systems effectively from both functional and technical perspectives.
 
