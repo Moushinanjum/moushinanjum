@@ -1,3 +1,14 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9C27B0,100:673AB7&height=200&text=Mst.Moushin%20Anjum&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=9C27B0&center=true&width=435&lines=Backend+Developer+(Java);Spring+Boot+Expert;Problem+Solver" alt="Typing SVG" />
+  </a>
+</div>
+
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Moushinanjum&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
