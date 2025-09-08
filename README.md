@@ -12,7 +12,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Moushinanjum&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
-### Aspiring Software Engineer & Java Developer
+
 Hello, I’m Moushin Anjum, a final-year Computer Science & Engineering student with a strong focus on Java and delivering robust, high-performing software. I have a solid foundation in backend development, working with technologies like Spring Boot, Spring Security, alongside MySQL database expertise, which enables me to test and optimize systems effectively from both functional and technical perspectives.
 
 In addition, I have experience with Machine Learning and Deep Learning, giving me an edge in understanding and testing AI-driven applications. My hands-on experience with Tailwind CSS and core programming languages including Java, C#, PHP, JavaScript, C, and C++ allows me to collaborate seamlessly with development teams and understand code-level issues deeply.
@@ -20,9 +20,16 @@ In addition, I have experience with Machine Learning and Deep Learning, giving m
 I’m passionate about growing as a Software Engineer by applying best practices, honing my skills, and contributing to software that is reliable, secure, and user-friendly.
 For my interview i am solving in :  
 
-  <a href="https://leetcode.com/u/moushinanjum//">
-    <img alt="LeetCode" src="https://custom-icon-badges.demolab.com/badge/LeetCode-00-%23005588?style=for-the-badge&labelColor=003366&logo=leetcode&logoColor=white"/>
-  </a>
+<a href="https://leetcode.com/u/moushinanjum//" target="_blank">
+  <img alt="LeetCode" src="https://custom-icon-badges.demolab.com/badge/LeetCode-%237B3FBF?style=for-the-badge&labelColor=6A0DAD&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/moushinanjum99" target="_blank">
+  <img alt="Codeforces" src="https://custom-icon-badges.demolab.com/badge/Codeforces-%23005588?style=for-the-badge&labelColor=003366&logo=codeforces&logoColor=white" />
+</a>
+
+
+  
 </p>
 
 ---
