@@ -13,22 +13,24 @@
   <img src="https://komarev.com/ghpvc/?username=Moushinanjum&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
-Hello, I’m Moushin Anjum, a final-year Computer Science & Engineering student with a strong focus on Java and delivering robust, high-performing software. I have a solid foundation in backend development, working with technologies like Spring Boot, Spring Security, alongside MySQL database expertise, which enables me to test and optimize systems effectively from both functional and technical perspectives.
+**👋** **Hello, I’m Moushin Anjum**
+**🎓** Final-year **Computer Science & Engineering** student
 
-In addition, I have experience with Machine Learning and Deep Learning, giving me an edge in understanding and testing AI-driven applications. My hands-on experience with Tailwind CSS and core programming languages including Java, C#, PHP, JavaScript, C, and C++ allows me to collaborate seamlessly with development teams and understand code-level issues deeply.
+**☕** Strong focus on **Java** with experience in delivering robust, high-performing software
 
-I’m passionate about growing as a Software Engineer by applying best practices, honing my skills, and contributing to software that is reliable, secure, and user-friendly.
-For my interview i am solving in :  
+**🌱** Backend expertise in **Spring Boot** & **Spring Security**
 
-<a href="https://leetcode.com/u/moushinanjum//" target="_blank">
-  <img alt="LeetCode" src="https://custom-icon-badges.demolab.com/badge/LeetCode-%237B3FBF?style=for-the-badge&labelColor=6A0DAD&logo=leetcode&logoColor=white"/>
-</a>
+**🗄️** Proficient in **MySQL** for database management and optimization
 
-<a href="https://codeforces.com/profile/moushinanjum99" target="_blank">
-  <img alt="Codeforces" src="https://custom-icon-badges.demolab.com/badge/Codeforces-%23005588?style=for-the-badge&labelColor=003366&logo=codeforces&logoColor=white" />
-</a>
+**🤝**Experience with **Machine Learning** & **Deep Learning**, enabling better understanding of AI-driven applications
 
+**🎨** Hands-on experience with **HTML** & **CSS**
 
+**🔑** Core programming languages: **Java**, **C#**, **PHP**, **JavaScript**, **C**,**C++**
+
+**🤝** Ability to collaborate with **teams** and resolve **code-level** issues
+
+**📈** Passionate about growing as a **Software Engineer**
   
 </p>
 
@@ -61,8 +63,7 @@ For my interview i am solving in :
 </p>
 
 ## 🤝 Let's Connect!
-I'm always open to collaborating on interesting projects and connecting with fellow developers. Feel free to reach out!
-
+**✨** I’m always excited to collaborate on impactful projects and exchange ideas with fellow developers. Let’s connect, share knowledge, and build something amazing together! **🚀🤝**
 <p align="center">
   <a href="https://https://github.com/Moushinanjum">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -70,6 +71,13 @@ I'm always open to collaborating on interesting projects and connecting with fel
   <a href="https://www.linkedin.com/in/moushinanjum99/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://leetcode.com/u/moushinanjum//" target="_blank">
+  <img alt="LeetCode" src="https://custom-icon-badges.demolab.com/badge/LeetCode-%237B3FBF?style=for-the-badge&labelColor=6A0DAD&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/moushinanjum99" target="_blank">
+  <img alt="Codeforces" src="https://custom-icon-badges.demolab.com/badge/Codeforces-%23005588?style=for-the-badge&labelColor=003366&logo=codeforces&logoColor=white" />
+</a>
   <a href="https://wa.me/01318034701">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
