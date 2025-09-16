@@ -52,7 +52,6 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger UI"/>
@@ -71,12 +70,12 @@
   <a href="https://www.linkedin.com/in/moushinanjum99/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/moushinanjum//" target="_blank">
-  <img alt="LeetCode" src="https://custom-icon-badges.demolab.com/badge/LeetCode-%237B3FBF?style=for-the-badge&labelColor=6A0DAD&logo=leetcode&logoColor=white"/>
-</a>
 
 <a href="https://codeforces.com/profile/moushinanjum99" target="_blank">
   <img alt="Codeforces" src="https://custom-icon-badges.demolab.com/badge/Codeforces-%23005588?style=for-the-badge&labelColor=003366&logo=codeforces&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/moushinanjum//" target="_blank">
+  <img alt="LeetCode" src="https://custom-icon-badges.demolab.com/badge/LeetCode-%237B3FBF?style=for-the-badge&labelColor=6A0DAD&logo=leetcode&logoColor=white"/>
 </a>
   <a href="https://wa.me/01318034701">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
