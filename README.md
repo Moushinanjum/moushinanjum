@@ -24,7 +24,7 @@
 
 **🤝**Experience with **Machine Learning** & **Deep Learning**, enabling better understanding of AI-driven applications
 
-**🎨** Hands-on experience with **HTML** & **CSS**
+**🎨** Hands-on experience with **HTML** , **CSS** & **React JS**
 
 **🔑** Core programming languages: **Java**, **C#**, **PHP**, **JavaScript**, **C**,**C++**
 
