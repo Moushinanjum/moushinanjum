@@ -14,7 +14,7 @@
 </p>
 
 **👋** **Hello, I’m Moushin Anjum**
-**🎓****Computer Science & Engineering** student
+**🎓Computer Science & Engineering** student
 
 **☕** Strong focus on **Java** with experience in delivering robust, high-performing software
 
